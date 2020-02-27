@@ -1,0 +1,130 @@
+INFO 17:30:45:048 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.16 (since Google Chrome 80 is installed in your machine)
+INFO 17:30:45:064 wdm.WebDriverManager getDriversFromXml:1077 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 17:30:45:399 wdm.Downloader downloadAndExtract:128 Downloading https://chromedriver.storage.googleapis.com/80.0.3987.16/chromedriver_win32.zip
+INFO 17:30:46:593 wdm.Downloader extract:183 Extracting binary from compressed file chromedriver_win32.zip
+INFO 17:30:46:666 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.16\chromedriver.exe
+INFO 17:33:37:063 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.16 (since Google Chrome 80 is installed in your machine)
+INFO 17:33:37:078 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.16\chromedriver.exe
+INFO 17:33:58:347 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.16 (since Google Chrome 80 is installed in your machine)
+INFO 17:33:58:363 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.16\chromedriver.exe
+INFO 20:05:06:269 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:05:06:292 wdm.WebDriverManager getDriversFromXml:1077 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 20:05:06:648 wdm.Downloader downloadAndExtract:128 Downloading https://chromedriver.storage.googleapis.com/80.0.3987.106/chromedriver_win32.zip
+INFO 20:05:07:665 wdm.Downloader extract:183 Extracting binary from compressed file chromedriver_win32.zip
+INFO 20:05:07:747 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:06:59:457 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:06:59:479 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:16:42:518 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:16:42:535 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:18:17:671 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:18:17:690 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:21:58:113 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:21:58:132 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:28:15:246 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:28:15:262 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:33:57:163 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:33:57:178 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:39:01:732 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:39:01:750 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:41:09:159 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:41:09:174 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:28:36:418 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:28:36:435 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:32:25:543 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:32:25:557 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:33:45:393 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:33:45:408 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:34:53:912 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:34:53:928 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 19:30:10:412 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 19:30:10:440 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 19:39:17:096 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 19:39:17:111 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 19:40:31:321 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 19:40:31:337 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 19:41:12:927 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 19:41:12:947 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:01:57:669 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:01:57:685 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:02:26:711 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:02:26:727 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:03:49:244 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:03:49:259 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:04:39:384 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:04:39:402 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:07:02:146 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:07:02:162 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:07:35:095 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:07:35:113 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:07:56:739 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:07:56:752 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:18:26:691 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:18:26:706 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:30:31:079 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:30:31:094 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:31:28:515 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:31:28:530 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:32:02:492 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:32:02:508 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:33:47:907 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:33:47:922 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:37:20:994 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:37:21:010 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:37:50:177 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:37:50:192 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:38:39:955 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:38:39:970 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:39:06:842 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:39:06:858 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:39:27:539 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:39:27:557 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:39:53:084 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:39:53:100 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 22:47:29:637 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 22:47:29:652 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 18:52:32:857 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 18:52:32:886 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 16:36:27:384 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 16:36:27:400 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 17:06:48:700 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 17:06:48:715 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:23:17:404 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:23:17:419 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:24:14:575 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:24:14:590 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:25:37:781 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:25:37:795 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:39:02:805 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:39:02:821 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:41:06:572 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:41:06:587 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:45:20:244 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:45:20:258 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 21:40:08:979 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 21:40:08:994 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 21:41:09:614 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 21:41:09:629 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:13:47:381 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:13:47:404 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:27:41:790 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:27:41:807 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:29:02:882 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:29:02:898 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:33:13:440 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:33:13:456 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:35:55:691 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:35:55:706 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:37:19:518 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:37:19:534 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:37:52:426 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:37:52:442 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 18:01:45:984 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 18:01:46:025 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 18:02:35:632 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 18:02:35:649 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 18:21:24:444 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 18:21:24:462 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 18:23:45:165 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 18:23:45:180 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
+INFO 20:08:16:710 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 80.0.3987.106 (since Google Chrome 80 is installed in your machine)
+INFO 20:08:16:726 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\ArTik\.m2\repository\webdriver\chromedriver\win32\80.0.3987.106\chromedriver.exe
