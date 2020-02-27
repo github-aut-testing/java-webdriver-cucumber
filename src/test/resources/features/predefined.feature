@@ -146,4 +146,4 @@ Feature: Smoke steps
     Then element with xpath "//ytd-two-column-search-results-renderer[@class='style-scope ytd-search']" should contain text "Selenium Webdriver with Cucumber and Java - Silver Bootcamp - Session 1"
     And I click on element using JavaScript with xpath "//yt-formatted-string[@class='style-scope ytd-video-renderer'][contains(text(),' Silver Bootcamp - Session 1')]"
     And I wait for element with xpath "//h1[contains(@class,'ytd-video-primary')]" to be present
-    And I wait for 5 sec
+    And I wait for 10 sec

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bf3ed6f-bc0f-488b-9b4a-18ed19ee3df9" name="Default Changelist" comment="">
+    <list default="true" id="7bf3ed6f-bc0f-488b-9b4a-18ed19ee3df9" name="Default Changelist" comment="wait time updated for youtube video">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/predefined.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/predefined.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +25,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Cucumber java.Scenario: Predefined steps for SearchEncrypt">
     <configuration name="Scenario: Amazon Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
@@ -158,6 +159,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1061" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582503368188" />
+    <state x="491" y="114" key="CommitChangelistDialog2" timestamp="1582787856186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582787856186" />
     <state width="1876" height="254" key="GridCell.Tab.0.bottom" timestamp="1582776494536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,10 +195,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1035" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582254006740" />
-    <state x="880" y="142" key="SettingsEditor" timestamp="1582686579148">
+    <state x="880" y="142" key="SettingsEditor" timestamp="1582788119536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="880" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582686579148" />
+    <state x="880" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582788119536" />
     <state x="1074" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1582503454918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
