@@ -2,6 +2,7 @@
 package support;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -10,7 +11,6 @@ import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.BrowserType;
-import org.openqa.selenium.Platform;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -27,6 +27,19 @@ public class TestContext {
     public static WebDriver getDriver() {
         return driver;
     }
+
+//    public static Actions getActions() {
+//        return new Actions (getDriver());
+//    }
+
+//    public static WebDriverWait getWait() {
+//        return new WebDriverWait(getDriver(), 5);
+//    }
+
+//
+//    public static WebDriverWait getWait(int timeout) {
+//        return new WebDriverWait(driver, timeout);
+//    }
 
     public static void initialize() {
         initialize("chrome", false);
@@ -52,6 +65,7 @@ public class TestContext {
                 ChromeOptions chromeOptions = new ChromeOptions();
                 chromeOptions.addArguments("--start-maximized");
                 chromeOptions.setExperimentalOption("prefs", chromePreferences);
+                System.setProperty("webdriver.chrome.silentOutput", "true");
                 if (isHeadless) {
                     chromeOptions.setHeadless(true);
                     chromeOptions.addArguments("--window-size=1920,1080");

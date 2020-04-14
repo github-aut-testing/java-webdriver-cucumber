@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bf3ed6f-bc0f-488b-9b4a-18ed19ee3df9" name="Default Changelist" comment="wait time updated for youtube video">
+    <list default="true" id="7bf3ed6f-bc0f-488b-9b4a-18ed19ee3df9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/MarketStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/QuoteOOPStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/QuoteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/QuoteResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/market.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/quoteOOP.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/TestContext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/predefined.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/predefined.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/predefined.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/predefined.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/support/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/support/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/support/TestContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/support/TestContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/webdriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/webdriver.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,22 +47,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/definitions" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Predefined steps for SearchEncrypt">
-    <configuration name="Scenario: Amazon Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber java.Scenario: Market basic test oop">
+    <configuration name="Scenario: Java Scenario - Hello World" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/predefined.feature" />
-      <option name="GLUE" value="support definitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/java.feature" />
+      <option name="GLUE" value="definitions" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="java-webdriver-cucumber" />
-      <option name="NAME_FILTER" value="^Amazon Search$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Amazon Search$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Amazon Search" />
+      <option name="NAME_FILTER" value="^Java Scenario \- Hello World$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Java Scenario \- Hello World$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Java Scenario - Hello World" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -47,15 +74,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Predefined steps for Amazon" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Market basic test oop" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/predefined.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/quoteOOP.feature" />
       <option name="GLUE" value="support definitions" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="java-webdriver-cucumber" />
-      <option name="NAME_FILTER" value="^Predefined steps for Amazon$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Predefined steps for Amazon$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Predefined steps for Amazon" />
+      <option name="NAME_FILTER" value="^Market basic test oop$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Market basic test oop$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Market basic test oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -66,15 +93,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Predefined steps for SearchEncrypt" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Market exercise with email and optional fields" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/predefined.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/marketing.feature" />
       <option name="GLUE" value="support definitions" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="java-webdriver-cucumber" />
-      <option name="NAME_FILTER" value="^Predefined steps for SearchEncrypt$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Predefined steps for SearchEncrypt$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Predefined steps for SearchEncrypt" />
+      <option name="NAME_FILTER" value="^Market exercise with email and optional fields$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Market exercise with email and optional fields$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Market exercise with email and optional fields" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -85,15 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Youtube Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Steps with Cat class" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/predefined.feature" />
-      <option name="GLUE" value="support definitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/java.feature" />
+      <option name="GLUE" value="definitions" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="java-webdriver-cucumber" />
-      <option name="NAME_FILTER" value="^Youtube Search$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Youtube Search$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Youtube Search" />
+      <option name="NAME_FILTER" value="^Steps with Cat class$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Steps with Cat class$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Steps with Cat class" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -104,15 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Youtube Video Search" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Steps with conditions" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/predefined.feature" />
-      <option name="GLUE" value="support definitions" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/java.feature" />
+      <option name="GLUE" value="definitions" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="java-webdriver-cucumber" />
-      <option name="NAME_FILTER" value="^Youtube Video Search$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Youtube Video Search$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Youtube Video Search" />
+      <option name="NAME_FILTER" value="^Steps with conditions$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Steps with conditions$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Steps with conditions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -123,13 +150,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Scenario: Java Scenario - Hello World" />
+      <item itemvalue="Cucumber java.Scenario: Market exercise with email and optional fields" />
+      <item itemvalue="Cucumber java.Scenario: Steps with conditions" />
+      <item itemvalue="Cucumber java.Scenario: Steps with Cat class" />
+      <item itemvalue="Cucumber java.Scenario: Market basic test oop" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Predefined steps for SearchEncrypt" />
-        <item itemvalue="Cucumber java.Scenario: Youtube Video Search" />
-        <item itemvalue="Cucumber java.Scenario: Youtube Search" />
-        <item itemvalue="Cucumber java.Scenario: Amazon Search" />
-        <item itemvalue="Cucumber java.Scenario: Predefined steps for Amazon" />
+        <item itemvalue="Cucumber java.Scenario: Market basic test oop" />
+        <item itemvalue="Cucumber java.Scenario: Steps with Cat class" />
+        <item itemvalue="Cucumber java.Scenario: Steps with conditions" />
+        <item itemvalue="Cucumber java.Scenario: Java Scenario - Hello World" />
+        <item itemvalue="Cucumber java.Scenario: Market exercise with email and optional fields" />
       </list>
     </recent_temporary>
   </component>
@@ -144,68 +178,127 @@
       <option name="presentableId" value="Default" />
       <updated>1581643122913</updated>
     </task>
+    <task id="LOCAL-00001" summary="wait time updated for youtube video">
+      <created>1582788146813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582788146813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.feature" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wait time updated for youtube video" />
+    <option name="LAST_COMMIT_MESSAGE" value="wait time updated for youtube video" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="1125" y="193" key="#Feature:_marketing" timestamp="1585881010285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1125" y="193" key="#Feature:_marketing/0.0.1920.1040@0.0.1920.1040" timestamp="1585881010285" />
+    <state x="973" y="178" key="#Inspections" timestamp="1583216191395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1583216191395" />
     <state x="973" y="178" key="#Project_Structure" timestamp="1582686204938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="973" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1582686204938" />
-    <state x="803" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582687565058">
+    <state x="803" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586492581162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="803" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582687565058" />
-    <state x="1061" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582503368188">
+    <state x="803" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586492581162" />
+    <state x="1262" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585518737688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1061" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582503368188" />
-    <state x="491" y="114" key="CommitChangelistDialog2" timestamp="1582787856186">
+    <state x="1262" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585518737688" />
+    <state x="1047" y="210" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1585880871647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="491" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582787856186" />
-    <state width="1876" height="254" key="GridCell.Tab.0.bottom" timestamp="1582776494536">
+    <state x="1047" y="210" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585880871647" />
+    <state x="1069" y="362" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1584156531252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582776494536" />
-    <state width="1876" height="254" key="GridCell.Tab.0.center" timestamp="1582776494536">
+    <state x="1069" y="362" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584156531252" />
+    <state x="1061" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584758138931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="254" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582776494536" />
-    <state width="1876" height="254" key="GridCell.Tab.0.left" timestamp="1582776494536">
+    <state x="1061" y="248" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584758138931" />
+    <state x="707" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582858538436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="254" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582776494536" />
-    <state width="1876" height="254" key="GridCell.Tab.0.right" timestamp="1582776494536">
+    <state x="707" y="367" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1582858538436" />
+    <state x="491" y="114" key="CommitChangelistDialog2" timestamp="1582788145245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="254" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582776494536" />
-    <state width="1035" height="338" key="GridCell.Tab.1.bottom" timestamp="1582254006740">
+    <state x="491" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582788145245" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582858698730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1035" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582254006740" />
-    <state width="1035" height="338" key="GridCell.Tab.1.center" timestamp="1582254006740">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582858698730" />
+    <state x="1160" y="275" key="FileChooserDialogImpl" timestamp="1586489994929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1035" height="338" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582254006740" />
-    <state width="1035" height="338" key="GridCell.Tab.1.left" timestamp="1582254006740">
+    <state x="1160" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586489994929" />
+    <state width="864" height="336" key="GridCell.Tab.0.bottom" timestamp="1586573227516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1035" height="338" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582254006740" />
-    <state width="1035" height="338" key="GridCell.Tab.1.right" timestamp="1582254006740">
+    <state width="864" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586573227516" />
+    <state width="864" height="336" key="GridCell.Tab.0.center" timestamp="1586573227516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1035" height="338" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582254006740" />
-    <state x="880" y="142" key="SettingsEditor" timestamp="1582788119536">
+    <state width="864" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586573227516" />
+    <state width="864" height="336" key="GridCell.Tab.0.left" timestamp="1586573227516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="880" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582788119536" />
-    <state x="1074" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1582503454918">
+    <state width="864" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586573227516" />
+    <state width="864" height="336" key="GridCell.Tab.0.right" timestamp="1586573227516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1074" y="310" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582503454918" />
-    <state x="1063" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1581648287186">
+    <state width="864" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586573227516" />
+    <state width="864" height="336" key="GridCell.Tab.1.bottom" timestamp="1586573126747">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1063" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581648287186" />
+    <state width="864" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586573126747" />
+    <state width="864" height="336" key="GridCell.Tab.1.center" timestamp="1586573126747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586573126747" />
+    <state width="864" height="336" key="GridCell.Tab.1.left" timestamp="1586573126747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586573126747" />
+    <state width="864" height="336" key="GridCell.Tab.1.right" timestamp="1586573126747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="864" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586573126747" />
+    <state x="1017" y="231" key="RollbackChangesDialog" timestamp="1584174079160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1017" y="231" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584174079160" />
+    <state x="880" y="142" key="SettingsEditor" timestamp="1585881583794">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585881583794" />
+    <state x="1084" y="100" width="745" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584156651154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1084" y="100" width="745" height="846" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584156651154" />
+    <state x="1074" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1585711710216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1074" y="310" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585711710216" />
+    <state x="1159" y="513" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1586490021401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1159" y="513" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586490021401" />
+    <state x="1063" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1585798958262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1063" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585798958262" />
   </component>
 </project>
